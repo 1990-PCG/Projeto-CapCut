@@ -1,5 +1,4 @@
 {
-  "dependencies": {
   "name": "tanstack_start_ts",
   "private": true,
   "sideEffects": false,
@@ -16,6 +15,7 @@
     "rolldown": "1.2.1"
   },
   "dependencies": {
+    "@fal-ai/client": "^1.6.2",
     "@ffmpeg/ffmpeg": "^0.12.10",
     "@ffmpeg/util": "^0.12.1",
     "@hookform/resolvers": "^5.2.2",
